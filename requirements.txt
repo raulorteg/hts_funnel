@@ -1,0 +1,9 @@
+torch==1.12.1
+torchaudio==0.12.1
+torchvision==0.13.1
+rdkit-pypi==2022.3.5
+networkx==2.8.7 
+matplotlib==3.6.1
+pillow==9.2.0
+scipy==1.9.3
+tqdm==4.64.1
